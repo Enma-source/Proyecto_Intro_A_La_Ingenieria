@@ -2,6 +2,7 @@ import greenfoot.*;
 
 public class MyWorld extends World
 {
+    GreenfootSound musica = new GreenfootSound("Proyectofxinal.wav");
     public MyWorld()
     {
         super(600, 400, 1);
